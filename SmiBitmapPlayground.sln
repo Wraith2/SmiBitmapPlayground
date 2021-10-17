@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmiBitmapPlayground", "SmiBitmapPlayground\SmiBitmapPlayground.csproj", "{43416171-0E22-4C97-880C-63E985444D06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmiBitmapGenerator", "SmiBitmapGenerator\SmiBitmapGenerator.csproj", "{D2E6B345-B7DD-494D-AFBB-904037D2C3F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43416171-0E22-4C97-880C-63E985444D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43416171-0E22-4C97-880C-63E985444D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43416171-0E22-4C97-880C-63E985444D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43416171-0E22-4C97-880C-63E985444D06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2E6B345-B7DD-494D-AFBB-904037D2C3F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E6B345-B7DD-494D-AFBB-904037D2C3F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E6B345-B7DD-494D-AFBB-904037D2C3F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E6B345-B7DD-494D-AFBB-904037D2C3F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D1ECD94-B4C0-4F77-9D11-72A59DA70A72}
+	EndGlobalSection
+EndGlobal
